@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440" role="img" aria-labelledby="title desc">
+<title id="title">What sits behind my type?</title><desc id="desc">Family, peers and media connect to My type? A conceptual question about social context, not a chart of measured effects.</desc>
+<rect x="24" y="24" width="512" height="392" rx="190" fill="#e9eee5"/>
+<g fill="none" stroke="#789681" stroke-width="2"><path d="M170 105Q230 120 253 179M417 176Q350 175 329 202M184 334Q213 290 251 268"/><circle cx="281" cy="225" r="130" stroke-dasharray="4 9"/></g>
+<g fill="#fffefa" stroke="#9bb29e"><rect x="44" y="65" width="164" height="86" rx="6"/><rect x="358" y="135" width="156" height="86" rx="6"/><rect x="52" y="306" width="167" height="86" rx="6"/></g>
+<circle cx="280" cy="225" r="83" fill="#225c50"/>
+<g fill="#203c39" font-family="system-ui,sans-serif" text-anchor="middle"><text x="126" y="115" font-size="23">Family</text><text x="436" y="185" font-size="23">Peers</text><text x="135" y="356" font-size="23">Media</text></g>
+<text x="280" y="220" font-family="Georgia,serif" font-size="30" text-anchor="middle" fill="#fffefa">My type<tspan x="280" dy="35">?</tspan></text>
+<text x="360" y="354" font-family="Georgia,serif" font-size="21" fill="#225c50" transform="rotate(-8 360 354)">Who taught me?</text>
+</svg>
