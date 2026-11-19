@@ -47,7 +47,7 @@
     }
     $('profile-error').hidden = true;
     $('activity-status').textContent = '';
-    $('profile-selection').textContent = selected.value === 'unsure' ? 'You chose: Not sure.' : `You chose: Profile ${selected.value}.`;
+    $('profile-selection').textContent = `You chose: Profile ${selected.value}.`;
     $('profile-title').textContent = 'Same Person, Different Profile';
     reveal.hidden = false;
     $('profile-grid').classList.add('revealed');
